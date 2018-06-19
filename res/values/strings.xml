@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--  Main  -->
+    <string name="app_name">Unduhan MP3</string>
+    <string name="market_url">com.euroasiamp3.es</string>
+    <string name="footer_message">Anda sedang menggunakan Unduhan MP3 versi V1.0.6</string>
+    
+    <!-- EULA -->
+    <string name="eula">
+        Izin resmi penggunaan peranti lunak ini terbatas hanya untuk berkas audio yang tersedia gratis di ranah publik! Anda setuju untuk menggunakan peranti ini sesuai kerangka hukum di negara domisili Anda, persyaratan Pasar Google Android, dan Ketentuan Layanan pembawa media Anda. Software ini hanyalah antar muka untuk mesin pencari publik, dan EuroAsia Singapura tidak bertanggung jawab jika terjadi penyalahgunaan. Dilarang keras menggunakan alat ini secara ilegal. Anda bertanggung jawab sendiri atas tindakan Anda.
+    </string>
+    
+    <!-- Free Apps & Offers Settings -->
+    <string name="btn_offers_name">Nonton Video</string>
+	<string name="topappsurl">http://freemp3musicdownload.mobi/videos/</string> <!-- For Free App Offers -->
+	
+	<!-- Ad Mobs Banner Ads ID -->
+	<string name="admobBID">a1509c754789a61</string>
+	
+<!--  Languages -->
+    <!-- Content Descriptions -->
+    <string name="logo_icon_desc">Home Button</string>
+    <string name="action_search_desc">Search Button</string>
+    
+    <!-- Buttons -->
+    <string name="btn_search_name">Cari</string>
+    <string name="btn_topten_name">Lagu Top</string>
+    <string name="btn_downloads_name">Unduhan</string>
+    <string name="btn_rate_name">Peringkatkan</string>
+    <string name="btn_share_name">Berbagi</string>
+    <string name="btn_cancel_name">Batal</string>
+    <string name="download_song">Unduh Lagu</string>
+    <string name="share_song">Berbagi Lagu</string>
+    
+    <!-- Edit Texts -->
+    <string name="edittext_search_hint">Masukkan Lagu atau Artis</string>
+    
+    <!-- Names -->
+    <string name="no_results">Hasil Tidak Ditemukan</string>
+    <string name="error_results">Hasil Gagal Dimuat</string>
+    <string name="no_active">Rupanya koneksi Internet Anda tidak aktif atau Lelet Sinyal Anda. Silakan aktifkan wifi atau data Anda lalu coba lagi.</string>
+    
+    <!-- Share Language -->
+    <string name="checkout">Cek Lagu Ini</string>
+    <string name="dlmessage">Hai, silakan unduh lagu ini:) </string>
+    
+    <!-- Toast Make -->
+    <string name="failedloading">Pemuatan Lagu Gagal. Silakan Coba Lagi.</string>
+    <string name="addedqueue">Unduhan Yang Ditambah Dalam Antrian</string>
+</resources>
